@@ -1,0 +1,19 @@
+.login{
+    text-align: center;
+    border: solid blue;
+    background-color: skyblue;
+    position: relative;
+    top: 2cm;
+    padding: 25px 15px;
+    margin: 10px 30rem;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+h2{
+    background: whitesmoke;
+}
+
+body {
+    background-image:url('kotak-kotak.jpg') ;
+}
